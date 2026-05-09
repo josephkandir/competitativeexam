@@ -1,6 +1,6 @@
 # Custom Encoder / Decoder
 
-A .NET 10 console application that encodes and decodes text using two custom alphabet-based cipher techniques, individually or combined. Logic is build based on India Competitive Exam
+A .NET 10 console application that encodes and decodes text using two custom alphabet-based cipher techniques, individually or combined.
 
 ---
 
